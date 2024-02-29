@@ -6,7 +6,7 @@ As a Data Analyst employed by a Real Estate Investment Trust (REIT), your primar
 
 # Objective:
 
-To determine the market price of a house based on a set of features. This involves analyzing various attributes or features such as square footage, number of bedrooms, number of floors, and other relevant factors that contribute to housing prices.
+To determine the market price of a house based on a set of features. It involves analyzing various attributes or features such as square footage, number of bedrooms, number of floors, and other relevant factors that contribute to housing prices.
 
 
 # Key Responsibilities:
